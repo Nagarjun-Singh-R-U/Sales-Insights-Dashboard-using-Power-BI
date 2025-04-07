@@ -20,18 +20,23 @@ It is a project management tool which consists of four components-
 * Success Criteria - (Cost optimization and time save)
 
 ### AIMS Grid -
-1. Purpose :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
+### 1. Purpose :-
 
-2. Stakeholders :-
+To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
 
-Sales Director
-Marketing Team
-Customer Service Team
-Data and Analytics Team
-IT
-3. End result :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
+### 2. Stakeholders :-
 
-4. Success Criteria :-
+* Sales Director
+* Marketing Team
+* Customer Service Team
+* Data and Analytics Team
+* IT
+
+### 3. End result :- 
+
+An automated dashboard providing quick and latest sights in order to support Data driven decision making.
+
+### 4. Success Criteria :-
 
 Dahboard uncovering sales order insights with latest data available
 Sales team able to take better decisions and prove 10% cost saving of total spend.
