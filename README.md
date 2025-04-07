@@ -61,7 +61,13 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 * Data Validation.
 * Data Modelling and Visualization.
 
-## Final Dashboard:
+## Final Dashboards:
+
+![Image Alt]()
+
+![Image Alt]()
+
+![Image Alt]()
 
 
 
