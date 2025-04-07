@@ -63,9 +63,15 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 
 ## Final Dashboards:
 
+### 1.Key Insights
+
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/a7b9a93fd2985c47816210e7583174eac13ead45/Datasets/Key%20Insights.png)
 
+### 2.Profit Analysis
+
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/15775422b89cd86318fbc752f4e9ff42001dfd0b/Datasets/Profit%20Analysis.png)
+
+### 3.Performance Insights
 
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/386e26028babdeda5478abca93950c7e6d3e6f6f/Datasets/Performance%20Insights.png)
 
