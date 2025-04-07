@@ -42,4 +42,13 @@ Dahboard uncovering sales order insights with latest data available
 Sales team able to take better decisions and prove 10% cost saving of total spend.
 Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
+## Task
+
+* Finding Profit Margin, Sales Quantity and Revenue made in each year/month
+* Analyzing top 5 customers and product by revenue
+* Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
+* Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market
+* Finding the Revenue trend by years
+* Analyzing Revenue contribution by customer type
+
 
