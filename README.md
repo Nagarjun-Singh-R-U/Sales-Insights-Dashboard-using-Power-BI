@@ -51,4 +51,14 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 * Finding the Revenue trend by years
 * Analyzing Revenue contribution by customer type
 
+## Steps Followed in this project
+* Learned about AIMS grid for project planning.
+* Used MySQL for retrieving the data from the database into Power BI.
+* Data Cleaning in power query.
+* Performed ETL process (Extract Transform and Load)
+* Created measure for needs and used them for creating visuals in PowerBi.
+* In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same.
+* Data Validation.
+* Data Modelling and Visualization.
+
 
