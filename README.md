@@ -67,7 +67,7 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/15775422b89cd86318fbc752f4e9ff42001dfd0b/Datasets/Profit%20Analysis.png)
 
-![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/8f124dfc7f4521d98ef0b4a975daf4fb9067ccf6/Datasets/Profit%20Analysis.png)
+![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/386e26028babdeda5478abca93950c7e6d3e6f6f/Datasets/Performance%20Insights.png)
 
 
 
