@@ -42,7 +42,7 @@ Dahboard uncovering sales order insights with latest data available
 Sales team able to take better decisions and prove 10% cost saving of total spend.
 Sales analysis stop data gathering manually in order to save 20% business time andreinvest it value added activity.
 
-## Task
+## Task:
 
 * Finding Profit Margin, Sales Quantity and Revenue made in each year/month
 * Analyzing top 5 customers and product by revenue
@@ -51,7 +51,7 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 * Finding the Revenue trend by years
 * Analyzing Revenue contribution by customer type
 
-## Steps Followed in this project
+## Steps Followed in this project:
 * Learned about AIMS grid for project planning.
 * Used MySQL for retrieving the data from the database into Power BI.
 * Data Cleaning in power query.
@@ -60,5 +60,9 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 * In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same.
 * Data Validation.
 * Data Modelling and Visualization.
+
+## Final Dashboard:
+
+
 
 
