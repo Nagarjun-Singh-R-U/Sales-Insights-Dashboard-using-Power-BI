@@ -85,9 +85,15 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 
 * 4.In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
 
-* 5.There is a decrease in the revenue trend from 2017-2020
+* 5.Overall,there is a decrease in the revenue trend from 2017-2020.
 
 ## Key Learnings:
+
+1.Learned about what real business data sets look like.
+2.Learned about how to write some major analysis queries in MySQL.
+3.How to connect the database’s tables to Power Bi and how to clean & modify the unwanted data in Power Query.
+4.Learned about some major practical DAX functions and measures.
+5.Learned about some major analytical visuals and reports.
 
 
 
