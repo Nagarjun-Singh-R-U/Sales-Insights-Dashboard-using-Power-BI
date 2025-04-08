@@ -61,7 +61,7 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 * Data Validation.
 * Data Modelling and Visualization.
 
-## Key Insights:
+## Insights:
 
 * 1.In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
 
@@ -74,6 +74,8 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 * 5.There is a decrease in the revenue trend from 2017-2020
 
 ## Final Dashboards:
+
+### 1.Key Insights
 
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/a7b9a93fd2985c47816210e7583174eac13ead45/Datasets/Key%20Insights.png)
 
