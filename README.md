@@ -65,6 +65,18 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 
 ### 1.Key Insights
 
+* 1.In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
+
+* 2.In this dashboard, we can see company has generated total revenue in 4 years ₹ 985M, total profit margin ₹24.7M, Profit margin% 2.5%, Sales Qty ₹2M. in 2020 company has generated total revenue of ₹ 142M by selling a total of 350K and earned a profit of ₹ 2.1M.
+
+* 3.If we check the profit margin then here In 2020 Bhubaneshwar comes into the picture which is generating the highest profit margin of 10.48%. Similarly, if we can check the Profit Contribution % by Market then here Mumbai is the largest player with 23.89% of total contribution in total profit.
+
+* 4.In our top 5 customers, the Electricalsara Stores is our biggest customer who has generated total ₹ 413 M revenue generated in 4 years.
+
+* 5.There is a decrease in the revenue trend from 2017-2020
+
+## Final Dashboards:
+
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/a7b9a93fd2985c47816210e7583174eac13ead45/Datasets/Key%20Insights.png)
 
 ### 2.Profit Analysis
@@ -74,6 +86,9 @@ Sales analysis stop data gathering manually in order to save 20% business time a
 ### 3.Performance Insights
 
 ![Image Alt](https://github.com/Nagarjun-Singh-R-U/Sales-Insights-Dashboard-using-Power-BI/blob/386e26028babdeda5478abca93950c7e6d3e6f6f/Datasets/Performance%20Insights.png)
+
+
+
 
 
 
